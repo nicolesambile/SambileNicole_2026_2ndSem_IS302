@@ -6,4 +6,4 @@ num2_nbs = float(input("Enter second number: "))
 result = add_numbers(num1_nbs, num2_nbs)
 print("Sum:", result)
 
-#Nicole Sambile
+#Nicole B. Sambile

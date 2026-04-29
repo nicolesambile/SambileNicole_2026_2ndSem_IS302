@@ -13,4 +13,4 @@ while attempts < 3:
 if attempts == 3:
     print("Account Locked")
 
-#Nicole Sambile
+#Nicole B. Sambile

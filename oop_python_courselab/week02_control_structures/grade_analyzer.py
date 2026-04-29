@@ -16,4 +16,4 @@ else:
     remark = "Failed"
 print(f"Remark: {remark}")
 
-#Nicole Sambile
+#Nicole B. Sambile

@@ -6,4 +6,4 @@ elif number_nbs < 0:
 else:
     print("Zero")
 
-#Nicole Sambile
+#Nicole B. Sambile
