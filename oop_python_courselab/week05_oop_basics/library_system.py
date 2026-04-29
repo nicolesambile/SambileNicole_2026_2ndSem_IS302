@@ -27,4 +27,4 @@ book2_nbs.display_book_nbs()
 print("Book 3:")
 book3_nbs.display_book_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

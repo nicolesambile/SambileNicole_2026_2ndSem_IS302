@@ -21,4 +21,4 @@ class Product_nbs:
 product_nbs = Product_nbs("Laptop", 45000, 10)
 product_nbs.get_product_info_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

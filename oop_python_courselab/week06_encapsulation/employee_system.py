@@ -14,4 +14,4 @@ emp_nbs = Employee_nbs("Ana")
 emp_nbs.set_salary_nbs(30000)
 print("Salary:", emp_nbs.get_salary_nbs())
 
-#Nicole Sambile
+#Nicole B. Sambile

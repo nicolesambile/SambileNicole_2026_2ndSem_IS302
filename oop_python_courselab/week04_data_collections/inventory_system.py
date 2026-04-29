@@ -7,4 +7,4 @@ inventory_nbs = {
 for item_nbs, price_nbs in inventory_nbs.items():
     print(item_nbs, ":", price_nbs)
 
-#Nicole Sambile
+#Nicole B. Sambile

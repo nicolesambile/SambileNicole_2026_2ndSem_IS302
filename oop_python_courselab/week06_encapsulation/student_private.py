@@ -12,4 +12,4 @@ class Student_nbs:
 student1_nbs = Student_nbs("Juan", "2023-001", 1.75)
 student1_nbs.get_student_info_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

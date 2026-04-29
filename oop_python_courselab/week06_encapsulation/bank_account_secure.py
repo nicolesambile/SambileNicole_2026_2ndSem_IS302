@@ -19,4 +19,4 @@ account_nbs.deposit_nbs(1000)
 account_nbs.withdraw_nbs(2000)
 print("Balance_nbs:", account_nbs.get_balance_nbs())
 
-#Nicole Sambile
+#Nicole B. Sambile

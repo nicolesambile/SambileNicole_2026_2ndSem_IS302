@@ -10,4 +10,4 @@ class Person_nbs:
 p1_nbs = Person_nbs("Juan", 20)
 p1_nbs.display_info_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

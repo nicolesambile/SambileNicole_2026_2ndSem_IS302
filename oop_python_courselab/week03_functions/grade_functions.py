@@ -22,4 +22,4 @@ remark_nbs = get_remark(average_nbs)
 print(f"Average: {average_nbs:.2f}")
 print(f"Remark: {remark_nbs}")
 
-#Nicole Sambile
+#Nicole B. Sambile

@@ -4,4 +4,4 @@ print("Programming Languages:")
 for lang_nbs in language_nbs:
     print(lang_nbs)
 
-#Nicole Sambile
+#Nicole B. Sambile

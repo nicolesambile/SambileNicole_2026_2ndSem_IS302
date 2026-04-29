@@ -9,4 +9,4 @@ print(f"\nAverage Grade: {average_grade_nbs:.1f}")
 print("Highest Grade:", max(grades_nbs))
 print("Lowest Grade:", min(grades_nbs))
 
-#Nicole Sambile
+#Nicole B. Sambile

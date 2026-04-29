@@ -13,4 +13,4 @@ p1_nbs = Person_nbs("Maria", 20)
 print("Name:", p1_nbs.get_name_nbs())
 print("Age:", p1_nbs.get_age_nbs())
 
-#Nicole Sambile
+#Nicole B. Sambile

@@ -7,4 +7,4 @@ print("\nStudent List")
 for student_nbs in students_nbs:
     print(student_nbs)
 
-#Nicole Sambile
+#Nicole B. Sambile

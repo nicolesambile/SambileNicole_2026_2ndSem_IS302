@@ -8,4 +8,4 @@ student_nbs = {
 for key_nbs, value_nbs in student_nbs.items():
     print(key_nbs, ":", value_nbs)
 
-#Nicole Sambile
+#Nicole B. Sambile
