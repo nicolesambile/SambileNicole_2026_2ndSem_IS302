@@ -5,4 +5,4 @@ print("Subtraction:", num1_nbs - num2_nbs)
 print("Multiplication:", num1_nbs * num2_nbs)
 print("Division:", num1_nbs / num2_nbs)
 
-#Nicole Sambile
+#Nicole B. Sambile

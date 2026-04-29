@@ -7,4 +7,4 @@ print("Age:", age_nbs)
 print("Course:", course_nbs)
 print("GPA:", gpa_nbs)
 
-#Nicole Sambile
+#Nicole B. Sambile

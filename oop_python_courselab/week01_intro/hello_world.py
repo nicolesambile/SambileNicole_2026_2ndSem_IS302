@@ -1,3 +1,3 @@
 print("Welcome to Object-Oriented Programming using Python")
 
-#Nicole Sambile
+#Nicole B. Sambile

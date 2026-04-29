@@ -8,4 +8,4 @@ print("Age:", age)
 print("Course:", course)
 print("University:", university)
 
-#Nicole Sambile
+#Nicole B. Sambile
