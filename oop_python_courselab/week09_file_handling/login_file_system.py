@@ -38,4 +38,4 @@ def main_nbs():
 
 main_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

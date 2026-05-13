@@ -14,4 +14,4 @@ payments_nbs = [CashPayment_nbs(), CardPayment_nbs()]
 for p_nbs in payments_nbs:
     p_nbs.pay_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

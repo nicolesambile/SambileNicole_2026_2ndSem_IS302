@@ -16,4 +16,4 @@ class Manager_nbs(Employee_nbs):
 manager1_nbs = Manager_nbs("John", 50000, "IT")
 manager1_nbs.display_manager_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

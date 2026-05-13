@@ -14,4 +14,4 @@ class Car_nbs(Vehicle_nbs):
 car1_nbs = Car_nbs("Toyota", "Corolla", 2022)
 car1_nbs.display_car_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

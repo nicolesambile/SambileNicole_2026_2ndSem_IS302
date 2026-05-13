@@ -36,4 +36,4 @@ print(f"Rectangle Area: {rectangle_nbs.area_nbs()}")
 print(f"Circle Area: {circle_nbs.area_nbs():.1f}")
 print(f"Triangle Area: {triangle_nbs.area_nbs()}")
 
-#Nicole Sambile
+#Nicole B. Sambile

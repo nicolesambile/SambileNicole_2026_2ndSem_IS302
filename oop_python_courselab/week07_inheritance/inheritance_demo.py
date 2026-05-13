@@ -13,4 +13,4 @@ dog1_nbs = Dog_nbs("Buddy")
 dog1_nbs.speak()
 dog1_nbs.bark()
 
-#Nicole Sambile
+#Nicole B. Sambile

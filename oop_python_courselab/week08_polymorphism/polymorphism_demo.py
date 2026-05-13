@@ -10,4 +10,4 @@ animals_nbs = [Dog_nbs(), Cat_nbs()]
 for animal_nbs in animals_nbs:
     animal_nbs.speak_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

@@ -34,4 +34,4 @@ student_nbs.display_info_nbs()
 print("\nTeacher Info:")
 teacher_nbs.display_info_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

@@ -14,4 +14,4 @@ employees_nbs = [Programmer_nbs(), Designer_nbs()]
 for emp_nbs in employees_nbs:
     emp_nbs.work_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile

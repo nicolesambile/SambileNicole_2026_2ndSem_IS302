@@ -8,4 +8,4 @@ with open("students.txt", "r") as file_nbs:
     for line_nbs in file_nbs:
         print(line_nbs.strip())
 
-#Nicole Sambile
+#Nicole B. Sambile

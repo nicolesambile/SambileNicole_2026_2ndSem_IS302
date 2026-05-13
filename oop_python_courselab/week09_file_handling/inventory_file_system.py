@@ -6,4 +6,4 @@ with open("inventory.txt", "a") as file:
 
 print("Product saved successfully")
 
-#Nicole Sambile
+#Nicole B. Sambile

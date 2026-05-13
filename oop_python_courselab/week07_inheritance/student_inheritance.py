@@ -16,4 +16,4 @@ class Student_nbs(Person_nbs):
 student1_nbs = Student_nbs("Maria", 20, "BSIS")
 student1_nbs.display_student_nbs()
 
-#Nicole Sambile
+#Nicole B. Sambile
