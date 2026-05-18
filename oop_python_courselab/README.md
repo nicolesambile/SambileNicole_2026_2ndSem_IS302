@@ -9,6 +9,13 @@ This repository contains exercises and projects for the BS Information Systems O
 - `week03_functions/`: Functions and modular programming
 - `week04_data_collections/`: Lists, dictionaries, and data collections
 - `week05_oop_basics/`: Introduction to object-oriented programming
+- `week06_encapsulation/`: Encapsulation and access control
+- `week07_inheritance/`: Inheritance and class relationships
+- `week08_polymorphism/`: Polymorphism and method overriding
+- `week09_file_handling/`: File input/output and persistence
+- `week10_exception_handling/`: Exception handling and validation
+- `week11_mini_project/`: Student Information System mini project
+- `week12_final_exam/`: Inventory Management System final exam
 
 ## Setup
 
