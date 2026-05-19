@@ -17,6 +17,6 @@ This repository contains exercises and projects for the BS Information Systems O
 - `week11_mini_project/`: Student Information System mini project
 - `week12_final_exam/`: Inventory Management System final exam
 
-## Setup
+
 
 Ensure you have Python 3.x, VS Code, Git, and a GitHub account installed.
