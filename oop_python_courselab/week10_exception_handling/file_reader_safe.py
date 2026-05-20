@@ -6,3 +6,5 @@ except FileNotFoundError:
     print("File does not exist")
 finally:
     print("Finished file read attempt.")
+
+#Nicole B. Sambile

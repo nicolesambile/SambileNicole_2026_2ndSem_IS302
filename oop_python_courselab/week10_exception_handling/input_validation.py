@@ -6,3 +6,5 @@ while True:
         print("Invalid input. Please enter a number.")
 
 print("Valid number entered:", number_nbs)
+
+#Nicole B. Sambile
